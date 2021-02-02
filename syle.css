@@ -1,0 +1,48 @@
+/* Semafor */
+/* 
+.prvo {
+    float: left;
+    position: relative;
+    left: 40%;
+}
+
+body {
+    background-color: #222;
+    text-align: center;
+}
+
+.objekt {
+    text-align: center;
+    background-color: dimgrey;
+    width: 100%;
+    padding: 10%;
+    margin: 10%;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.semafor {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    opacity: 0.2;
+    margin-bottom: 5%;
+    border: 1px solid black;
+}
+
+.crveno {
+    background-color: red;
+}
+
+.zolto {
+    background-color: yellow;
+}
+
+.zeleno {
+    background-color: green;
+}
+
+#zastani,
+#trgni {
+    margin-left: 5.3%;
+} */
